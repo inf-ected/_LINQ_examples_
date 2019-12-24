@@ -73,6 +73,7 @@ namespace LINQ
                                   acc.AccountNumber, acc.Balance);
             }
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 
